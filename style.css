@@ -539,5 +539,8 @@ main{
 .btn{
     flex-wrap: wrap;
 }
+.last-image{
+    display: none;
+}
     
 }
